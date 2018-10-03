@@ -1,0 +1,14 @@
+{
+  "name": "elm-flaff-flaff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "elm-make src/Main.elm --output public/elm.js",
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elm": "0.18.0"
+  }
+}
