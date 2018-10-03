@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "elm-make src/Main.elm --output public/elm.js",
+    "postinstall": "elm-make src/Main.elm --output public/elm.js"
   },
   "author": "",
   "license": "ISC",
